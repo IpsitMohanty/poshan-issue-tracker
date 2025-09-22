@@ -1,0 +1,5 @@
+﻿# Ignore issue data & notebook junk
+poshan_issue_store.csv
+.ipynb_checkpoints/
+.virtual_documents/
+*.log
