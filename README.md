@@ -94,14 +94,6 @@ Then launch Jupyter and open the notebook:
 jupyter notebook
 ```
 
-## Current Scope
+## Project Scope
 
-This is a lightweight local operational tool.
-
-It does not currently include:
-
-- multi-user authentication
-- server-side APIs
-- database storage
-- workflow notifications
-- audit logging beyond the CSV history you maintain locally
+This repository is focused on local notebook-based issue logging, validation, and review for operational tracking workflows.
